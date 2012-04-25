@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<html manifest="" lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <title>Bottom Tabs</title>
+    <script id="microloader" type="text/javascript" src="lib/touch/microloader/development.js"></script>
+</head>
+<h1> Hey </h1>
+<body>
+</body>
+</html>
